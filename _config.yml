@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Architectural Decision Records # the main title
 
-tagline: Homepage of the ADR GitHub organization
+tagline: Homepage of the Architectural Decision Records for Recall
 
 description: >- # used by seo meta and the atom feed
   An Architectural Decision (AD) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://adr.github.io"
 
 github:
-  username: adr # change to your GitHub username
+  username: KarafrOrg # change to your GitHub username
 
 #twitter:
 #  username: twitter_username # change to your Twitter username
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: adr.github.io
-  email: example@domain.com # change to your email address
+  email: karafra@karafra.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
